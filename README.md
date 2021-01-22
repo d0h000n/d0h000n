@@ -5,7 +5,7 @@
 
 [![](https://run.kaist.ac.kr/badges/codeforces/hgmhc.svg)](https://codeforces.com/profile/hgmhc)
 
-[![CodeForces Profile](http://cf.leed.at?id=justice_hui)](https://codeforces.com/profile/justice_hui)
+[![CodeForces Profile](http://cf.leed.at?id=hgmhc)](https://codeforces.com/profile/hgmhc)
 
 [![JusticeHui's github stats](https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true)](https://github.com/justiceHui)
 
