@@ -7,7 +7,7 @@
 
 [![CodeForces Profile](http://cf.leed.at?id=hgmhc)](https://codeforces.com/profile/hgmhc)
 
-[![JusticeHui's github stats](https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true)](https://github.com/justiceHui)
+[![hgmhc's github stats](https://github-readme-stats.vercel.app/api?username=hgmhc&show_icons=true&hide_border=true)](https://github.com/hgmhc)
 
 - 🔭 전 지금 깃허브를 작업하고 있어요
 - 🌱 전 지금 정보와 수학을 공부하고 있어요
