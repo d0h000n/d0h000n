@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohoon)](https://solved.ac/dohoon/)
 
-Codeforces: [hgmhc](https://codeforces.com/profile/hgmhc) [![](https://run.kaist.ac.kr/badges/codeforces/hgmhc.svg)](https://codeforces.com/profile/hgmhc)
+[![](https://run.kaist.ac.kr/badges/codeforces/hgmhc.svg)](https://codeforces.com/profile/hgmhc)
 
 - 🔭 전 지금 깃허브를 작업하고 있어요
 - 🌱 전 지금 정보와 수학을 공부하고 있어요
