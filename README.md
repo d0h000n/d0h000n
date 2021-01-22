@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohoon)](https://solved.ac/dohoon/)
-
 [![CodeForces Profile - main](http://cf.leed.at?id=hgmhc)](https://codeforces.com/profile/hgmhc)
 [![CodeForces Profile - sub](http://cf.leed.at?id=hoongle)](https://codeforces.com/profile/hoongle)
 
