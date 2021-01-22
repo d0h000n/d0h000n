@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohoon)](https://solved.ac/dohoon/)
-
-[![](https://run.kaist.ac.kr/badges/codeforces/hgmhc.svg)](https://codeforces.com/profile/hgmhc)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohoon)](https://solved.ac/dohoon/)
 
 [![CodeForces Profile](http://cf.leed.at?id=hgmhc)](https://codeforces.com/profile/hgmhc)
 
