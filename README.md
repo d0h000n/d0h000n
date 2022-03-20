@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohoon)](https://solved.ac/dohoon/)
 ![dohoon's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dohoon)
 
-- 🌱 전 지금 정보와 수학을 공부하고 있어요
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lhgmhc7/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lhgmhc7/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lhgmhc7/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lhgmhc7/discussion)
+
+- 🌱 전 지금 알고리즘 문제풀이를 주로 공부하고 있어요.
 - 📫 연락 방법: dohoon@kakao.com
 - 😄 hgmhc 읽는 법: 한글문해충!
+
+
 
 심심하면 이거 보고 가세요
 
