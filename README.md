@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![dohoon's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dohoon)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dohoon&theme=cold)
 
 [![dohoon's codeforces profile](https://cp-badges.herokuapp.com/codeforces/[dohoon.].svg)](https://codeforces.com/profile/dohoon.)
 [![dohoon's atcoder profile](https://cp-badges.herokuapp.com/atcoder/hgmhc.svg)](https://atcoder.jp/users/hgmhc)
