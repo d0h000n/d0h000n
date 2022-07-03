@@ -3,8 +3,8 @@
 ![dohoon's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dohoon)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dohoon&theme=cold)
 
-![dohoon's codeforces profile](https://cp-badges.herokuapp.com/codeforces/[dohoon.].svg)
-![dohoon's atcoder profile](https://cp-badges.herokuapp.com/atcoder/[dohoon].svg)
+[![dohoon's codeforces profile](https://cp-badges.herokuapp.com/codeforces/[dohoon.].svg)](https://codeforces.com/profile/dohoon.)
+[![dohoon's atcoder profile](https://cp-badges.herokuapp.com/atcoder/hgmhc.svg)](https://atcoder.jp/users/hgmhc)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lhgmhc7/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lhgmhc7/dataset)
