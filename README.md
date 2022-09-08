@@ -2,9 +2,8 @@
 
 [![dohoon's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dohoon)](https://solved.ac/dohoon)
 
-[![dohoon's codeforces profile](https://cp-badges.herokuapp.com/codeforces/dohoon..svg)](https://codeforces.com/profile/dohoon.)
+[![dohoon's codeforces profile](https://cp-logo.vercel.app/codeforces/dohoon.)](https://codeforces.com/profile/dohoon.)
 [![dohoon's atcoder profile](https://cp-badges.herokuapp.com/atcoder/dohoon.svg)](https://atcoder.jp/users/dohoon)
-
 
 - 🌱 전 지금 알고리즘 문제풀이를 주로 공부하고 있어요.
 - 📫 연락 방법: dohoon@kakao.com
