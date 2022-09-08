@@ -6,7 +6,7 @@
 [![dohoon's atcoder profile](https://cp-badges.herokuapp.com/atcoder/dohoon.svg)](https://atcoder.jp/users/dohoon)
 
 - 🌱 전 지금 알고리즘 문제풀이를 주로 공부하고 있어요.
-- 📫 연락 방법: dohoon@kakao.com
+- 📫 연락 방법: 블로그 방명록을 이용해 주세요. 이메일 주소를 적으니 스팸 메일이 많이 오네요...
 - 😄 dohoon 또는 hgmhc라는 닉네임을 사용해요.
 
 
