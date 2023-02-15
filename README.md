@@ -7,6 +7,4 @@
 
 ![solved.ac streak](http://mazandi.herokuapp.com/api?handle=dohoon&theme=cold)
 
-int64 범위에서 약수의 개수의 최댓값은 3321
-
 <a href="https://opgc.me/#/users/hgmhc" target="_blank"><img src="https://api.opgc.me/githubs/users/hgmhc/tag/?theme=basic" /></a>
