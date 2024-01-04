@@ -5,8 +5,7 @@
 #### 문제 풀이 현황
 - Codeforces max. Candidate Master / [![Codeforces](https://badges.joonhyung.xyz/codeforces/FD..LH..lloyJ.svg)](https://codeforces.com/profile/FD..LH..lloyJ)
 - AtCoder 2 Kyu / [![AtCoder](https://badges.joonhyung.xyz/atcoder/dohoon.svg?left_color=lightgray)](https://atcoder.jp/users/dohoon)
-- solved.ac Diamond II / [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=dohoon)](https://solved.ac/dohoon)
-- solved.ac [arena SS](https://solved.ac/profile/dohoon)
+- solved.ac Diamond II + Arena SS / [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=dohoon)](https://solved.ac/dohoon)
 
 #### 대회 실적
 - 2023 한국정보올림피아드 1차 '은상', 2차 '동상'
