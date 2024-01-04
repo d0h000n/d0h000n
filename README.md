@@ -3,7 +3,7 @@
 ### 알고리즘
 
 #### 문제 풀이 현황
-- Codeforces max. Candidate Master / [![Codeforces](https://badges.joonhyung.xyz/codeforces/Go3.svg)](https://codeforces.com/profile/Go3)
+- Codeforces max. Candidate Master / [![Codeforces](https://badges.joonhyung.xyz/codeforces/FD..LH..lloyJ.svg)](https://codeforces.com/profile/FD..LH..lloyJ)
 - AtCoder 2 Kyu / [![AtCoder](https://badges.joonhyung.xyz/atcoder/dohoon.svg?left_color=lightgray)](https://atcoder.jp/users/dohoon)
 - solved.ac Diamond II / [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=dohoon)](https://solved.ac/dohoon)
 - solved.ac arena SS
