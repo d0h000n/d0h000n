@@ -6,6 +6,7 @@
 - Codeforces max. Candidate Master / [![Codeforces](https://badges.joonhyung.xyz/codeforces/FD..LH..lloyJ.svg)](https://codeforces.com/profile/FD..LH..lloyJ)
 - AtCoder 2 Kyu / [![AtCoder](https://badges.joonhyung.xyz/atcoder/dohoon.svg?left_color=lightgray)](https://atcoder.jp/users/dohoon)
 - solved.ac Diamond II + Arena SS / https://solved.ac/dohoon
+- [문제 풀이 블로그](https://mathsciforstudent.tistory.com/)
 
 #### 대회 실적
 - 2023 한국정보올림피아드 1차 '은상', 2차 '동상'
