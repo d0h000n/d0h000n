@@ -6,6 +6,7 @@
 - Codeforces max. Candidate Master / [![Codeforces](https://badges.joonhyung.xyz/codeforces/FD..LH..lloyJ.svg)](https://codeforces.com/profile/FD..LH..lloyJ)
 - AtCoder 2 Kyu / [![AtCoder](https://badges.joonhyung.xyz/atcoder/dohoon.svg?left_color=lightgray)](https://atcoder.jp/users/dohoon)
 - solved.ac Diamond II + Arena SS / https://solved.ac/dohoon
+- USACO Gold division
 - [문제 풀이 블로그](https://mathsciforstudent.tistory.com/)
 
 #### 대회 실적
@@ -13,7 +14,6 @@
 - Hello, BOJ 2024! 진출
 - 2023 한국정보올림피아드 1차 '은상', 2차 '동상'
 - 2023 넥슨 청소년 프로그래밍 챌린지 2차 예선 '만점', '본선 진출'
-- USACO Gold division
 - 2023 구름 하이스쿨 알고리즘 캠프 '대상'
 - 2023 INU 코드 페스티벌 '장려상'
 - 2023 국민대학교 알고리즘 대회 '장려상'
