@@ -24,6 +24,7 @@
 - 2023 송도고 주최 인천지역 중고등학생 알고리즘 대회, '코드마스터' 대회 총괄
 - 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회(SUAPC 2023 winter) 출제진
 - 2023 KAIST Mock Competition 출제진
+- 2023 전국 대학생 프로그래밍 대회 동아리 연합 대회(UCPC 2023) 운영진
 - 2023 춘배컵 출제진
 - 2023 2023 KSA Automata Summer Contest 검수진
 - 2023 FunctionCup 검수진
