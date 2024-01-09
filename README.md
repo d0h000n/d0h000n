@@ -26,7 +26,7 @@
 - 2023 KAIST Mock Competition 출제진
 - 2023 전국 대학생 프로그래밍 대회 동아리 연합 대회(UCPC 2023) 운영진
 - 2023 춘배컵 출제진
-- 2023 2023 KSA Automata Summer Contest 검수진
+- 2023 KSA Automata Summer Contest 검수진
 - 2023 FunctionCup 검수진
 - 2023 GEC-Cup 검수진
 - 월간 향유회(23.06.~) 운영진
