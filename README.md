@@ -5,7 +5,7 @@
 #### 문제 풀이 현황
 - Codeforces max. Candidate Master / [![Codeforces](https://badges.joonhyung.xyz/codeforces/FD..LH..lloyJ.svg)](https://codeforces.com/profile/FD..LH..lloyJ)
 - AtCoder 2 Kyu / [![AtCoder](https://badges.joonhyung.xyz/atcoder/dohoon.svg?left_color=lightgray)](https://atcoder.jp/users/dohoon)
-- solved.ac Diamond II + Arena SS / https://solved.ac/dohoon
+- solved.ac Diamond II / https://solved.ac/dohoon
 - USACO Gold division
 - [문제 풀이 블로그](https://mathsciforstudent.tistory.com/)
 
@@ -20,14 +20,13 @@
 - 2023 ICT 어워드 코리아 창의와 코딩 부문 '장려상'
 
 #### 대회 출제, 검수, 운영
+- 2024 GIST 알고리즘 마스터즈 검수진
 - 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 출제진
 - 2024 전남대학교 PIMM 알고리즘 파티 검수진
-- 2023 가지컵 검수진
-- 2024 KSA Automata Winter Contest 검수진
 - 2023 송도고 주최 인천지역 중고등학생 알고리즘 대회, '코드마스터' 대회 총괄
 - 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 출제진
 - 2023 KAIST Mock Competition 출제진
-- 2023 춘배컵 출제진
+- 2023 백준 춘배컵 출제진
 - 2023 KSA Automata Summer Contest 검수진
-- 2023 FunctionCup 검수진
-- 2023 GEC-Cup 검수진
+- 2023 백준 FunctionCup 검수진
+- 2023 North London Collegiate School Jeju GEC-Cup 검수진
